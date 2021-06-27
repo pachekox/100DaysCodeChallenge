@@ -9,3 +9,4 @@ The repository is dedicated to my 100 days of code starting from Saturday 26/06/
 |------|-----------------|--------------------|---------------------|
 |1 |26-06-2021|connected node app to MongoDb Atlas|[Project Repo](https://github.com/Pacheko123/node-practicals/blob/main/app.js)|
 |2|27-06-2021|created a github account|[Project Repo](https://github.com/Pacheko123/node-practicals/blob/main/app.js)|
+|3 | 28-06-2021 | added a branch| [project repo](link to project here) |
