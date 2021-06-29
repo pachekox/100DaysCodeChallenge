@@ -9,5 +9,5 @@ The repository is dedicated to my 100 days of code starting from Saturday 26/06/
 |------|-----------------|--------------------|---------------------|
 |1 |26-06-2021|connected node app to MongoDb Atlas|[Project Repo](https://github.com/Pacheko123/node-practicals/blob/main/app.js)|
 |2|27-06-2021|simulated mpesa stk push django on my rental project|[Project Repo](https://github.com/Pacheko123/smart-rentals)|
-|3|28-06-2021|simulated mpesa stk push php|[Project Repo](https://github.com/  |
+|3|28-06-2021|simulated mpesa stk push php|[Project Repo](https://github.com/)  |
 
